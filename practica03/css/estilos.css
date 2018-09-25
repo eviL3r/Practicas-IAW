@@ -1,7 +1,7 @@
 body{
     font-family: sans-serif;
 }
-.titulo{
+#titulo{
     position: absolute;
     top: 0;
     left: 0;
@@ -17,7 +17,7 @@ h1{
     font-size: 4em;
 
 }
-.pag{
+#pag{
     position: absolute;
     top: 200px;
     left: 0;
@@ -31,7 +31,7 @@ button{
     margin-top: 20px;
     background-color: darkred;
     color: white;
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 5px 5px 5px 5px;
     text-decoration: none;
     border: 2px solid aqua;
     outline: none;
@@ -41,6 +41,4 @@ button:hover{
     background-color: aqua;
     border: 2px solid darkred;
     color: black;
-
-
 }
