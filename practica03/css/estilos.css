@@ -16,6 +16,7 @@ h1{
     width: 100%;
     font-size: 4em;
 
+
 }
 #pag{
     position: absolute;
@@ -23,6 +24,8 @@ h1{
     left: 0;
     width: 100%;
     text-align: center;
+    margin:auto;
+
 
 }
 button{
@@ -41,4 +44,8 @@ button:hover{
     background-color: aqua;
     border: 2px solid darkred;
     color: black;
+}
+p{
+    margin-top: 10px;
+
 }

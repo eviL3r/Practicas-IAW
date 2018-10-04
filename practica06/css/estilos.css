@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=K2D');
+body{
+    font-family: K2D,sans-serif;
+    margin: 0;
+    background-color: gray;
+}
+header{
+    padding: 2em 0;
+    background-color: darkred;
+}
+h1{
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+main {
+    width: 100%;
+    max-width: 800px;
+    background-color: white;
+    text-align: center;
+    padding: 2em 0;
+    margin: auto;
+    font-size: 1.5em;
+}
+form {
+    display: block;
+    margin-top: 0;
+}
